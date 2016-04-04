@@ -14,4 +14,4 @@ sandstone
 sandstone brick
 brick
 
-Licence - WTFPL
+Licence - DWYWPL

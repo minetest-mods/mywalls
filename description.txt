@@ -12,4 +12,3 @@ sandstone
 sandstone brick
 brick
 
-Licence - WTFPL

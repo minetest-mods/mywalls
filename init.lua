@@ -16,5 +16,5 @@ walls.register(":walls:stone_brick", "Stone Brick Wall", "default_stone_brick.pn
 walls.register(":walls:desert_stone", "Desert Stone Wall", "default_desert_stone.png",
 		"default:desert_stone", default.node_sound_stone_defaults())
 
-walls.register(":walls:desrt_stone_brick", "Desert Stone Brick Wall", "default_desert_stone_brick.png",
+walls.register(":walls:desert_stonebrick", "Desert Stone Brick Wall", "default_desert_stone_brick.png",
 		"default:desert_stonebrick", default.node_sound_stone_defaults())
