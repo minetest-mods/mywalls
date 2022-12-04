@@ -1,0 +1,20 @@
+# textdomain: mywalls
+Brick Wall=
+Sandstone Wall=
+Sandstone Brick Wall=
+Sandstone Block Wall=
+Stone Wall=
+Stone Brick Wall=
+Stone Block Wall=
+Desert Stone Wall=
+Desert Stone Brick Wall=
+Desert Stone Block Wall=
+Desert Sandstone Wall=
+Desert Sandstone Brick Wall=
+Desert Sandstone Block Wall=
+Silver Sandstone Wall=
+Silver Sandstone Brick Wall=
+Silver Sandstone Block Wall=
+Obsidian Wall=
+Obsidian Brick Wall=
+Obsidian Block Wall=
