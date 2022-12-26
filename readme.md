@@ -37,5 +37,3 @@ Included in this mod walls are:
    - `"default:obsidian"`
    - `"default:obsidian_brick"`
    - `"default:obsidian_block"`
-
-Licence - DWYWPL
