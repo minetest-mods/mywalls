@@ -62,3 +62,69 @@ walls.register(":walls:obsidian_brick", S("Obsidian Brick Wall"), "default_obsid
 
 walls.register(":walls:obsidian_block", S("Obsidian Block Wall"), "default_obsidian_block.png",
 		"default:obsidian_block", default.node_sound_stone_defaults())
+
+
+if minetest.get_modpath("myores") then
+
+	walls.register(":walls:basalt", S("Basalt Wall"), "myores_basalt.png",
+		"myores:basalt", default.node_sound_stone_defaults())
+
+	walls.register(":walls:gneiss", S("Gneiss Wall"), "myores_gneiss.png",
+		"myores:gneiss", default.node_sound_stone_defaults())
+
+	walls.register(":walls:granite", S("Granite Wall"), "myores_granite.png",
+		"myores:granite", default.node_sound_stone_defaults())
+
+	walls.register(":walls:marble", S("Marble Wall"), "myores_marble.png",
+		"myores:marble", default.node_sound_stone_defaults())
+
+	walls.register(":walls:schist", S("Schist Wall"), "myores_schist.png",
+		"myores:schist", default.node_sound_stone_defaults())
+
+	walls.register(":walls:shale", S("Shale Wall"), "myores_shale.png",
+		"myores:shale", default.node_sound_stone_defaults())
+
+	walls.register(":walls:slate", S("Slate Wall"), "myores_slate.png",
+		"myores:slate", default.node_sound_stone_defaults())
+
+	walls.register(":walls:chromium", S("Chromium Wall"), "myores_chromium.png",
+		"myores:chromium", default.node_sound_stone_defaults())
+
+	walls.register(":walls:manganese", S("Manganese Wall"), "myores_manganese.png",
+		"myores:manganese", default.node_sound_stone_defaults())
+
+	walls.register(":walls:basalt_brick", S("Basalt Brick Wall"), "myores_basalt_brick.png",
+		"myores:basalt_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:gneiss_brick", S("Gneiss Brick Wall"), "myores_gneiss_brick.png",
+		"myores:gneis_bricks", default.node_sound_stone_defaults())
+
+	walls.register(":walls:granite_brick", S("Granite Brick Wall"), "myores_granite_brick.png",
+		"myores:granite_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:marble_brick", S("Marble Brick Wall"), "myores_marble_brick.png",
+		"myores:marble_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:schist_brick", S("Schist Brick Wall"), "myores_schist_brick.png",
+		"myores:schist_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:shale_brick", S("Shale Brick Wall"), "myores_shale_brick.png",
+		"myores:shale_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:slate_brick", S("Slate Brick Wall"), "myores_slate_brick.png",
+		"myores:slate_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:chromium_brick", S("Chromium Brick Wall"), "myores_chromium_brick.png",
+		"myores:chromium_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:manganese_brick", S("Manganese Brick Wall"), "myores_manganese_brick.png",
+		"myores:manganese_brick", default.node_sound_stone_defaults())
+end
+
+
+
+
+
+
+
+
