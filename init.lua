@@ -119,6 +119,12 @@ if minetest.get_modpath("myores") then
 
 	walls.register(":walls:manganese_brick", S("Manganese Brick Wall"), "myores_manganese_brick.png",
 		"myores:manganese_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:quartz_brick", S("Quartz Brick Wall"), "myores_quartz_brick.png",
+		"myores:quartz_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:chalcopyrite_brick", S("Chalcopyrite Brick Wall"), "myores_chalcopyrite_brick.png",
+		"myores:chalcopyrite_brick", default.node_sound_stone_defaults())
 end
 
 
