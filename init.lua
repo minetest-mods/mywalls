@@ -123,8 +123,35 @@ if minetest.get_modpath("myores") then
 	walls.register(":walls:quartz_brick", S("Quartz Brick Wall"), "myores_quartz_brick.png",
 		"myores:quartz_brick", default.node_sound_stone_defaults())
 
+	walls.register(":walls:cobalt_brick", S("Cobalt Brick Wall"), "myores_cobalt_brick.png",
+		"myores:cobalt_brick", default.node_sound_stone_defaults())
+
 	walls.register(":walls:chalcopyrite_brick", S("Chalcopyrite Brick Wall"), "myores_chalcopyrite_brick.png",
 		"myores:chalcopyrite_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:uvarovite_brick", S("Uvarovite Brick Wall"), "myores_uvarovite_brick.png",
+		"myores:uvarovite_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:selenite_brick", S("Selenite Brick Wall"), "myores_selenite_brick.png",
+		"myores:selenite_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:miserite_brick", S("Miserite Brick Wall"), "myores_miserite_brick.png",
+		"myores:miserite_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:limonite_brick", S("Limonite Brick Wall"), "myores_limonite_brick.png",
+		"myores:limonite_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:sulfur_brick", S("Sulfur Brick Wall"), "myores_sulfur_brick.png",
+		"myores:sulfur_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:lapis_lazuli_brick", S("Lapis Lazuli Brick Wall"), "myores_lapis_lazuli_brick.png",
+		"myores:lapis_lazuli_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:emerald_brick", S("Emerald Brick Wall"), "myores_emerald_brick.png",
+		"myores:emerald_brick", default.node_sound_stone_defaults())
+
+	walls.register(":walls:amethyst_brick", S("Amethyst Brick Wall"), "myores_amethyst_brick.png",
+		"myores:amethyst_brick", default.node_sound_stone_defaults())
 end
 
 
